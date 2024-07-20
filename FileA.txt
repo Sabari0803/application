@@ -1,3 +1,2 @@
 This is file A.
 This is changed.
-Doing changes
